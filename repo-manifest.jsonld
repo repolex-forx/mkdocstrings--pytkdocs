@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/pytkdocs/commit/96560effaa047da3ff1b7d35c40b4dd4f924040f",
       "git:hexsha": "96560effaa047da3ff1b7d35c40b4dd4f924040f",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.16.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.16.5",
+      "repolex:parsedAt": "2026-10-10T22:53:09.635494+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mkdocstrings/pytkdocs/commit/7d9fbebf350cdb60f2b23465aa27ae964a0c7026",
