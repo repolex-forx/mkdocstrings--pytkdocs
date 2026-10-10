@@ -1,0 +1,11 @@
+{
+  "org": "mkdocstrings",
+  "repo": "pytkdocs",
+  "versions": [
+    {
+      "commit": "96560effaa047da3ff1b7d35c40b4dd4f924040f",
+      "tag": "0.16.5",
+      "parsed_at": "2026-10-10T22:53:09.654960+00:00"
+    }
+  ]
+}
